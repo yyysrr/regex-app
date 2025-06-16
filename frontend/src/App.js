@@ -38,12 +38,12 @@ function App() {
     // Validate file type
     const ext = '.' + file.name.split('.').pop().toLowerCase();
     if (!SUPPORTED_FORMATS.includes(ext)) {
-      setError('❌ Unsupported file format.');
+      setError('Unsupported file format.');
       setMessage('');
       return;
     }
     if (file.size > MAX_FILE_SIZE) {
-      setError('❌ File too large (max 10MB).');
+      setError('File too large (max 10MB).');
       setMessage('');
       return;
     }
@@ -86,7 +86,7 @@ function App() {
   // Handle pattern + replacement submission to backend
   const handlePatternApply = async () => {
     if (!pattern.trim() || !replacement.trim()) {
-      setError('❌ Please enter both pattern and replacement.');
+      setError('Please enter both pattern and replacement.');
       return;
     }
 
