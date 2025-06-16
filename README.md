@@ -12,10 +12,9 @@ This web application allows users to:
 - **Frontend**: React + TailwindCSS
 - **LLM**: OpenAI/GPT for regex transformation
 
-
 ## 🎥 Demo
 
-[![Watch the demo](https://youtu.be/Uo2iK-iQB-Y)
+[![Watch the demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=Uo2iK-iQB-Y)
 
 Click the image above to watch the demo on YouTube.
 
