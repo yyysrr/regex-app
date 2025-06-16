@@ -14,7 +14,7 @@ This web application allows users to:
 
 ## 🎥 Demo
 
-[![Watch the demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=Uo2iK-iQB-Y)
+[![Watch the demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://youtu.be/PdWaSl6bsE4)
 
 Click the image above to watch the demo on YouTube.
 
