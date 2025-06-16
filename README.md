@@ -10,7 +10,7 @@ This web application allows users to:
 
 - **Backend**: Django + DRF
 - **Frontend**: React + TailwindCSS
-- **LLM**: OpenAI/GPT for regex transformation
+- **LLM**: OpenAI for regex transformation
 
 ## 🎥 Demo
 

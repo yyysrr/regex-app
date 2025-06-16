@@ -75,7 +75,7 @@ class RegexProcessorView(View):
             {context}
             
             Requirements:
-            1. Return ONLY the regex pattern, no explanations
+            1. Return ONLY the regex pattern
             2. Ensure the pattern is safe and won't cause catastrophic backtracking
             3. Use appropriate word boundaries and anchors
             4. Handle common variations and edge cases
@@ -83,7 +83,6 @@ class RegexProcessorView(View):
            
             Regex pattern:
             """
-            
             response = openai.ChatCompletion.create(
                 model="gpt-3.5-turbo",
                 messages=[
